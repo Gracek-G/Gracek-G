@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 Looking for opportunities to become a Junior Web Developer<br>🌱 Currently learning JavaScript for its incredible interaction capabilities<br><br>⚡ Fun fact: coffee is a fruit 🍒
+🤝 Looking for opportunities to become a Junior Web Developer<br>🌱 Currently learning React JS for its incredible interaction capabilities<br><br>⚡ Fun fact: coffee is a fruit 🍒
 
 
 ## 🌐 Socials:
