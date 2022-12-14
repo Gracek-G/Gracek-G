@@ -10,13 +10,13 @@
 
 # 🔨 My projects
 <ul>
-  <li><a href = "https://gracek-g.github.io/quote-generator/">Quote generator</a></li>
+  <li><a href = "https://gracek-g.github.io/countdown/">Countdown Timer</a></li>
   <br>
-  <li><a href = "https://gracek-g.github.io/Dark-and-Light-Theme">Dark and Light Mode</a></li>
+  <li><a href = "https://gracek-g.github.io/music-player/">Music Player</a></li>
   <br>
   <li><a href = "https://gracek-g.github.io/infinity-scroll-study/">Infinite Scroll</a></li>
   <br>
-  <li><a href = "https://gracek-g.github.io/countdown/">Countdown Timer</a></li>
+  <li><a href = "https://gracek-g.github.io/Animated-navigation-bar/">Animated Navigation Bar</a></li>
 </ul>
 
 # 📊 GitHub Stats:
