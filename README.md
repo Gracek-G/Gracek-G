@@ -3,7 +3,9 @@
 
 
 ## 🌐 Socials:
-<a href = "https://gracjangutowski.com/">Personal Page</a>
+<ul>
+  <li><a href = "https://gracjangutowski.com/">Personal Page</a></li>
+</ul>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gracjan-gutowski-82147318b/) 
 
