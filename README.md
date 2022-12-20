@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 <ul>
-  <li><a href = "https://gracjangutowski.com/">Personal Page</a></li>
+  <li><a target=_blank href = "https://gracjangutowski.com/">Personal Page</a></li>
 </ul>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gracjan-gutowski-82147318b/) 
@@ -14,13 +14,13 @@
 
 # 🔨 My projects
 <ul>
-  <li><a href = "https://gracek-g.github.io/countdown/">Countdown Timer</a></li>
+  <li><a target=_blank href = "https://gracek-g.github.io/countdown/">Countdown Timer</a></li>
   <br>
-  <li><a href = "https://gracek-g.github.io/music-player/">Music Player</a></li>
+  <li><a target=_blank href = "https://gracek-g.github.io/music-player/">Music Player</a></li>
   <br>
-  <li><a href = "https://gracek-g.github.io/infinity-scroll-study/">Infinite Scroll</a></li>
+  <li><a target=_blank href = "https://gracek-g.github.io/infinity-scroll-study/">Infinite Scroll</a></li>
   <br>
-  <li><a href = "https://gracek-g.github.io/Animated-navigation-bar/">Animated Navigation Bar</a></li>
+  <li><a target=_blank href = "https://gracek-g.github.io/Animated-navigation-bar/">Animated Navigation Bar</a></li>
 </ul>
 
 # 📊 GitHub Stats:
