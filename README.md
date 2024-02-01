@@ -1,6 +1,7 @@
 # 💫 About Me:
 ⚛️ I am a JavaScript Developer especially interested in React web applications development. ⚛️
 <br>
+<br>
 I have been interested in programming since 2018, initially focusing on Python technology and statistical data processing. Currently I create complex web applications with e-commerce capabilities.
 
 
@@ -9,7 +10,7 @@ I have been interested in programming since 2018, initially focusing on Python t
   <li><a target=_blank href = "https://gracjan-gutowski.netlify.app/">Personal Page</a></li>
 </ul>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gracjan-gutowski-82147318b/) 
+
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
