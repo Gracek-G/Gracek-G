@@ -1,5 +1,7 @@
 # 💫 About Me:
-🤝 Looking for opportunities to become a Junior Web Developer<br>🌱 Currently learning React JS for its incredible interaction capabilities<br><br>⚡ Fun fact: coffee is a fruit 🍒
+I am a JavaScript Developer especially interested in React web applications development. 
+<br>
+I have been interested in programming since 2018, initially focusing on Python technology and statistical data processing. Currently I create complex web applications with e-commerce capabilities.
 
 
 ## 🌐 Socials:
